@@ -93,4 +93,4 @@ cd Decentralized-Charity-Platform
 
 ---
 
-**Built with ❤️ for the Ethereum community** 
+**Built with  for the Ethereum community** 
